@@ -1,0 +1,65 @@
+{
+    "A" : {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": true,
+        "E": false,
+        "F": true,
+        "G": false
+    },
+    "B" : {
+        "A": true,
+        "B": false,
+        "C": true,
+        "D": false,
+        "E": false,
+        "F": false,
+        "G": false
+    },
+    "C" : {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false,
+        "E": true,
+        "F": false,
+        "G": true
+    },
+    "D" : {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": true,
+        "F": false,
+        "G": false
+    },
+    "E" : {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": true,
+        "E": false,
+        "F": false,
+        "G": false
+    },
+    "F" : {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false,
+        "G": true
+    },
+    "G" : {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": false,
+        "E": false,
+        "F": true,
+        "G": false
+    }
+}

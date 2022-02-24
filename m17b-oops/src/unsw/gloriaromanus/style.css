@@ -1,0 +1,84 @@
+ .panel-region .label {
+    -fx-text-fill: rgb(255, 243, 224);
+    -fx-font-size: 13pt;
+  }
+  .slider .axis {
+      -fx-tick-label-fill: rgb(131, 114, 106);
+  }
+
+  .range-slider .axis {
+      -fx-tick-label-fill: rgb(92, 79, 73);
+  }
+  .panel-region .check-box {
+     -fx-text-fill: white;
+  }
+
+  .panel-region .radio-button {
+     -fx-text-fill: white;
+  }
+
+  .color-picker .color-picker-label {
+     -fx-text-fill: black;
+  }
+
+  .button {
+     cursor: pointer;
+     -fx-cursor: hand;
+	   -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+  }
+
+  .slider {
+    cursor: pointer;
+    -fx-cursor: hand;
+  }
+
+  .text-area .content{
+    -fx-background-color: rgb(53, 52, 52);
+  }
+
+  .text-area {
+    -fx-text-fill: white;
+  }
+
+  .factionLabel {
+    font-size: 14pt;
+  }
+
+  .whiteText {
+    -fx-font-size: 20pt;
+    -fx-text-fill : white;
+  }
+
+  .battleButton {
+    -fx-text-fill: rgb(236, 235, 235);
+    -fx-font-size: 15pt;
+    -fx-background-color: rgb(172, 66, 66);
+  }
+
+  .moveButton {
+    -fx-font-size: 15pt;
+    -fx-text-fill: rgb(233, 233, 233);
+    -fx-background-color: rgb(64, 114, 172);
+  }
+
+  .invadeOrMove {
+    /* -fx-text-fill: rgb(233, 233, 233);
+    -fx-background-color: rgb(53, 52, 52); */
+    -fx-background-color:rgb(92, 79, 73);
+	  -fx-text-fill: rgb(255, 235, 202);
+	  -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+  }
+
+  .nextPlayer {
+    -fx-font-size: 16pt;
+    -fx-background-color:rgb(92, 79, 73);
+	  -fx-text-fill: rgb(255, 235, 202);
+	  -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+  }
+
+  .text-field {
+    -fx-border-radius: 1;
+    -fx-border: gone;
+    -fx-background-color: rgba(78, 78, 78, 0.5);
+    -fx-text-fill: white;
+  }

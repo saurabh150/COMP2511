@@ -1,0 +1,16 @@
+{
+    "farm" : {
+        "cost" : 300,
+        "turnsToBuild" : 2,
+        "costToUpgrade" : 300,
+        "townWealthGeneration" : 10,
+        "maxLevel" : 4
+    },
+    "market" : {
+        "cost" : 200,
+        "turnsToBuild" : 1,
+        "costToUpgrade" : 200,
+        "maxLevel" : 4,
+        "townWealthGeneration" : 10
+    }
+}

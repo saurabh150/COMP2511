@@ -1,0 +1,19 @@
+
+  .settingsBg {
+    -fx-background-color: rgb(226, 224, 221);
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+  }
+
+  .button {
+	  cursor: pointer;
+	-fx-cursor: hand;
+ }
+
+.settingsButton {
+	cursor: pointer;
+	-fx-cursor: hand;
+	-fx-background-color:rgb(92, 79, 73);
+	-fx-text-fill: rgb(255, 235, 202);
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+}

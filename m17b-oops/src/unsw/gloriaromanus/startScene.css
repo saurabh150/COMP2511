@@ -1,0 +1,43 @@
+.label {
+	-fx-font-size: 16pt;
+	-fx-font-weight: bold;
+}
+.button {
+	cursor: pointer;
+	-fx-cursor: hand;
+	-fx-background-color: rgb(92, 79, 73);
+	-fx-text-fill: rgb(255, 235, 202);
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+ }
+
+ .text-field {
+	-fx-font-size: 16pt;
+	-fx-font-weight: bold;
+	-fx-border-radius: 1;
+    -fx-border: gone;
+    -fx-background-color: rgb(107, 99, 95, 0.5);
+	-fx-text-fill: white;
+ }
+
+ .combo-box {
+	-fx-font-size: 16pt;
+	-fx-background: rgb(107, 99, 95, 0.5);
+    -fx-background-color: rgba(226, 211, 202, 0.582);
+    -fx-text-fill:  rgb(255, 235, 202);
+    -fx-padding: 3 0 2 7;
+    -fx-cell-size: 1.66667em;
+ }
+
+ .combo-box .list-view .list-cell {
+	-fx-font-size: 16pt;
+	/* -fx-background: rgb(107, 99, 95, 0.5); */
+    -fx-background-color: rgb(107, 99, 95);
+    -fx-text-fill:  rgb(255, 235, 202);
+    -fx-padding: 3 0 2 7;
+    -fx-cell-size: 1.66667em;
+ }
+
+ /* #background {
+	-fx-background-image: url("../../../images/war_background.jpg");
+	-fx-background-size: cover;
+ } */
